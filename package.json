@@ -1,5 +1,5 @@
 {
-  "homepage": "https://codewithabubakr.github.io/chatify",
+  "homepage": "https://codewithabubakr.github.io/Chatify/",
   "name": "chatify",
   "version": "0.1.0",
   "private": true,
@@ -46,5 +46,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "install": "^0.13.0"
   }
 }
