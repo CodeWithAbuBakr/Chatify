@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chatify/static/css/main.710c45d1.chunk.css",
+    "main.js": "/chatify/static/js/main.9550ca9c.chunk.js",
+    "main.js.map": "/chatify/static/js/main.9550ca9c.chunk.js.map",
+    "runtime-main.js": "/chatify/static/js/runtime-main.c0995034.js",
+    "runtime-main.js.map": "/chatify/static/js/runtime-main.c0995034.js.map",
+    "static/css/2.ca756f56.chunk.css": "/chatify/static/css/2.ca756f56.chunk.css",
+    "static/js/2.7c47cac1.chunk.js": "/chatify/static/js/2.7c47cac1.chunk.js",
+    "static/js/2.7c47cac1.chunk.js.map": "/chatify/static/js/2.7c47cac1.chunk.js.map",
+    "static/js/3.44ab551e.chunk.js": "/chatify/static/js/3.44ab551e.chunk.js",
+    "static/js/3.44ab551e.chunk.js.map": "/chatify/static/js/3.44ab551e.chunk.js.map",
+    "index.html": "/chatify/index.html",
+    "static/css/2.ca756f56.chunk.css.map": "/chatify/static/css/2.ca756f56.chunk.css.map",
+    "static/css/main.710c45d1.chunk.css.map": "/chatify/static/css/main.710c45d1.chunk.css.map",
+    "static/js/2.7c47cac1.chunk.js.LICENSE.txt": "/chatify/static/js/2.7c47cac1.chunk.js.LICENSE.txt",
+    "static/media/login.820cf094.png": "/chatify/static/media/login.820cf094.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0995034.js",
+    "static/css/2.ca756f56.chunk.css",
+    "static/js/2.7c47cac1.chunk.js",
+    "static/css/main.710c45d1.chunk.css",
+    "static/js/main.9550ca9c.chunk.js"
+  ]
+}
